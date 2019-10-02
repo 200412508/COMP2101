@@ -7,10 +7,6 @@
 #           *** Do not use the exit command
 
 myString="Teststring"
-#referenceString="password"
-#echo "give your password guess"
-#read password
-#[ $myString = $password ] && echo "You guessed the password!" || echo "The password eludes you..."
 for i in {1,2,3}
 do
   echo "give your password :"
