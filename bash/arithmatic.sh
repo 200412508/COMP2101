@@ -9,9 +9,9 @@
 #   - first divided by second gives X with a remainder of Y
 # Improve this script by calculating and displaying the first number raised to the power of the second number
 
-echo "Enter the firstnumber"
+echo "Enter the firstnumber for arithmatic operations"
 read firstnumber
-echo "Enter the secondnumber"
+echo "Enter the secondnumber for arithmatic operations"
 read secondnumber
 
 echo "performing the arithmatic operation"
